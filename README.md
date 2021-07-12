@@ -1,6 +1,6 @@
 # Geonet (NZ)
 
-# Why
+## Why
 This content was created to satisfy an unmet need.
   * Nowhere on the official geonet site is there a page that lists
     the details of all recent events.
