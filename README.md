@@ -7,7 +7,7 @@ This content was created to satisfy an unmet need.
   * Other, similar sites, are burdened with java-script and external
     content such as goggle.
 
-We acknowledge and thank the New Zealand GeoNet project and its sponsors 
-EQC, GNS Science and LINZ for providing the data used in this study.
+*We acknowledge and thank the New Zealand GeoNet project and its sponsors 
+EQC, GNS Science and LINZ for providing the data used in this study.*
 
 [info.geonet.org.nz](http://info.geonet.org.nz/)
